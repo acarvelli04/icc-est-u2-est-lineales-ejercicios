@@ -23,6 +23,7 @@ public class App {
         String palabra2 = "Hola Mundo";     // Debería ser false
         String palabra3 = "Anita lava la tina"; // Debería ser true
 
+        System.out.println("ADD: Ejercicio 02 - Stack Sorter Palindrome en Java");
         System.out.println("Es '" + palabra1 + "' palíndromo? " + validator.isPalindrome(palabra1));
         System.out.println("Es '" + palabra2 + "' palíndromo? " + validator.isPalindrome(palabra2));
         System.out.println("Es '" + palabra3 + "' palíndromo? " + validator.isPalindrome(palabra3));
@@ -35,6 +36,7 @@ public class App {
         String palabra2 = "Hola Mundo";    
         String palabra3 = "Anita lava la tina"; 
 
+        System.out.println("ADD: Ejercicio 03 - Queue Palindrome en Java");
         System.out.println("Es '" + palabra1 + "' palíndromo? " + validator.isPalindrome(palabra1));
         System.out.println("Es '" + palabra2 + "' palíndromo? " + validator.isPalindrome(palabra2));
         System.out.println("Es '" + palabra3 + "' palíndromo? " + validator.isPalindrome(palabra3));

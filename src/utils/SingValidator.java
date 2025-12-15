@@ -106,5 +106,7 @@ public class SingValidator {
             }   
         }
         return true;
+
+        //VER ESTO PARA TALVEZ HACERLO EN PYTHON
     }
 }

@@ -25,4 +25,4 @@ Adaptamos el codigo anterior, al elnguaje de Python
 1. Primera parte igual al anterior
 2. comapramos el primero con el ultimo de la cola
 3. si hay un momento que no son iguales significa que **NO** es un palindromo 
-![alt text](image3.png)
+![alt text](assects/image3.png)
